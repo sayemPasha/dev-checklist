@@ -1,5 +1,3 @@
-✔️  Android Interview – Core Topics You Should Master
-
 Architecture & Design
 1. MVVM / MVI / MVP
 2. Clean Architecture
@@ -60,7 +58,7 @@ Release & Distribution
 4. Signed APK/AAB
 
 
-🎯 Domain-Specific Expertise
+Domain-Specific Expertise
 1. FinTech: Payment SDKs, Secure Transactions
 2. Social: Real-time Chat, Media Upload Optimization
 3. Media: ExoPlayer Streaming, DRM

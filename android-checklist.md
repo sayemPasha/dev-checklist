@@ -64,3 +64,6 @@ Domain-Specific Expertise
 3. Media: ExoPlayer Streaming, DRM
 4. Field force monitoring: Location tracking, Offline first, background sync
 
+## Quick note
+SupervisorJob() -> Manages the cancellation behavior of coroutines within your application's coroutine hierarchy
+
